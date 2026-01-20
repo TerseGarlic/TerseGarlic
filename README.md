@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am TerseGarlic, a Senior Computer Science student!
+
 <!--
 **TerseGarlic/TerseGarlic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
